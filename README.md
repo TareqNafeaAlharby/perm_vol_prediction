@@ -25,3 +25,7 @@ numpy==1.26.4
    python load_predict.py
    ```
 3. Enter the Time (min) and Pressure (kgf/cm²) values when prompted to get the predicted permeate volume.
+4. For Predict on entrie data use:
+   ```bash
+   python load_predict_dataset.py
+   ```
